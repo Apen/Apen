@@ -24,7 +24,7 @@
 - PHP
     - TYPO3
     - Symfony
-    - phpstan, rector, etc...
+    - A lot of tools :-) PHPUnit, phpstan, rector, blackfire, etc...
 - TypeScript
 - Vue.js
     - Vuex
