@@ -1,36 +1,23 @@
 <h1 align="center">Hi 👋, I'm Yohann CERDAN</h1>
 
-✨ I am passionate backend & frontend developer from France. I love sharing my knowledge with others, and i do that through some repositories and open source participations. I am currently CEO of <a href="https://www.site-ngo.fr/">Site-nGo</a> agency and specialized in TYPO3 and Symfony projects.
+🚀 **Full Stack Developer | TYPO3 & Symfony Expert | Co-founder and CTO of Site-nGo**  
 
+I'm a passionate backend & frontend developer from France with over 18 years of experience. As the co-founder and CTO of <a href="https://www.site-ngo.fr/">Site-nGo</a>, I specialize in building high-quality web applications, with a strong focus on TYPO3, Symfony, and modern web technologies.  
 
-- 🔭 I’m currently working on : TYPO3 & Symfony project
-- 💬 Ask me about : TYPO3, Symfony, NodeJs, Vue
-- 📫 How to reach me : **cerdanyohann@gmail.com**
-- ⚡ Fun fact : I envoy develop some app for video games i play
+I have a deep understanding of different ecosystems and a keen eye for **code quality, security, and performance**. I'm always exploring new technologies, contributing to open source, and sharing my knowledge with the community.  
 
-<h2 align="left">Connect with me :</h2>
+💡 **What I work on:**  
+- 🔭 **Current projects:** TYPO3 & Symfony development  
+- 💬 **Ask me about:** TYPO3, Symfony, PHP, JavaScript  
+- 🎮 **Fun fact:** I love building small tools for video games I play  
+
+<h2 align="left">📬 Connect with me:</h2>
 
 <a href="https://twitter.com/Apen_" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yohann-cerdan-645015190/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Apen" target="_blank"><img src="https://img.shields.io/badge/Apen-222F29.svg?style=for-the-badge&logo=Github"/></a>
 
-<h2 align="left">Websites :</h2>
+<h2 align="left">🌍 Websites:</h2>
 
-- <a href="https://cv.ycerdan.fr/" target="_blank">Personnal resume (french)</a>
-- <a href="https://www.site-ngo.fr" target="_blank">My web agency</a>
-
-<h2 align="left">Languages and Tools :</h2>
-
-- PHP
-    - TYPO3
-    - Symfony
-    - A lot of tools :-) PHPUnit, phpstan, rector, blackfire, etc...
-- TypeScript
-- Vue.js
-    - Vuex
-    - Nuxt.js
-    - Vue-i18n
-- NodeJs
-    - Express
-    - Babel
-    - Webpack
+- 📄 <a href="https://cv.ycerdan.fr/" target="_blank">Personal resume (French)</a>  
+- 🏢 <a href="https://www.site-ngo.fr" target="_blank">My web agency</a>  
